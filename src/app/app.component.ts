@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'dupa';
+
+
+
+  imageUrlArray =
+  [
+    '../assets/1.jpg',
+    '../assets/2.jpg',
+    '../assets/3.jpg'
+  ];
 }
